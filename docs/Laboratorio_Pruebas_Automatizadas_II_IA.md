@@ -15,9 +15,9 @@
 
 | # | Nombre completo |
 |---|-----------------|
-| 1 | |
-| 2 | |
-| 3 | |
+| 1 | |Jose David villa
+| 2 | |Tatiana Tuberquia
+
 
 ---
 
