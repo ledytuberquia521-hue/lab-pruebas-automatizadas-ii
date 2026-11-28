@@ -16,7 +16,8 @@
 | # | Nombre completo |
 |---|-----------------|
 | 1 | |Jose David villa
-| 2 | |Tatiana Tuberquia
+| 2 | |Wendy Tatiana Echeverry
+| 3 | |Tatiana Tuberquia
 
 
 ---
